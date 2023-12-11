@@ -75,11 +75,16 @@ export default function Home() {
 
 
 
+          <Link href={'/series'}>
+
           <div className='bg-cyan-600 px-10 md:py-20 py-5 cursor-pointer hover:scale-105 transition-all text-center mx-5 my-2'
           >
             <span className='md:text-2xl font-bold text-xs'> GO TV SERIES </span>
 
           </div>
+          </Link>
+
+
 
 
         </div>
