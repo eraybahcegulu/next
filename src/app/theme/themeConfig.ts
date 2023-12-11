@@ -5,7 +5,7 @@ const electrolize = Electrolize({ weight: '400', subsets: ['latin'] });
 const theme: ThemeConfig = {
     token: {
         fontSize: 16,
-        colorPrimary: '#52c41a',
+        colorPrimary: '#4096ff',
         fontFamily: electrolize + 'sans-serif',
     },
 
